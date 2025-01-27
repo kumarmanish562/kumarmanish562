@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
 </div>
 
 ###
@@ -21,28 +21,19 @@
   🔥 Passionate about creating sleek and modern web experiences!
 </p>
 
-
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
   
   <p>We are using AWS for cloud computing, HTML5 for structuring the web pages, CSS3 for styling, Tailwind CSS for utility-first styling, JavaScript for dynamic functionality, and Python for backend development and automation.</p>
 </div>
 
-
 <h3 align="left">🔥 My Stats:</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kumarmanish562&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
 
 ###
 
@@ -51,7 +42,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarmanish562&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
+<div align="center">
+  <img height="200" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*VMmvImch6VU5pc2VktY1uw.gif" />
+</div>
 
+###
+
+<h3 align="left">🔥 Contribution & Streaks</h3>
+
+<div align="center">
+  <!-- Contribution graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarmanish562&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
 
 
@@ -71,22 +73,10 @@
 
 ###
 
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-
-
-###
-
 <img src="https://raw.githubusercontent.com/kumarmanish562/kumarmanish562/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img height="200" src=""  />
+  <img height="200" src="https://www.pi-top.com/hs-fs/hubfs/social-suggested-images/Further%20minimized.gif?width=360&name=Further%20minimized.gif" />
 </div>
-
-###
