@@ -8,31 +8,52 @@
 
 ###
 
-<h3 align="left">🔥About me</h3>
+<h3 align="left">🔥 About Me</h3>
 
 ###
 
-<p align="left">I'm Manish Kumar  from Bhilai.   <br>🔭 I’m working as a **Frontend Engineer**, building responsive and user-friendly web interfaces.  <br>- 📚 I'm currently learning **React.js**, **TypeScript**, and exploring to level up my frontend skills.  <br>- ⚡ In my free time, I love **experimenting with new web tools**, **exploring open-source projects** .  <br>- 🔥 Passionate about creating sleek and modern web experiences!</p>
+<p align="left">
+  I'm Manish Kumar from Bhilai. <br>
+  🔭 I’m working as a <strong>Frontend Engineer</strong>, building responsive and user-friendly web interfaces. <br>
+  📚 I'm currently learning <strong>React.js</strong>, <strong>TypeScript</strong>, and exploring to level up my frontend skills. <br>
+  🌩️ I've also completed <strong>50% of my AWS learning journey</strong>, diving into cloud computing concepts. <br>
+  ⚡ In my free time, I love <strong>experimenting with new web tools</strong>, <strong>exploring open-source projects</strong>. <br>
+  🔥 Passionate about creating sleek and modern web experiences!
+</p>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
+  
+  <p>We are using AWS for cloud computing, HTML5 for structuring the web pages, CSS3 for styling, Tailwind CSS for utility-first styling, JavaScript for dynamic functionality, and Python for backend development and automation.</p>
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kumarmanish562&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=kumarmanish562&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarmanish562&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarmanish562&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+
+
+
 
 ###
 
@@ -56,10 +77,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarmanish562&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarmanish562&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
