@@ -33,26 +33,10 @@
   <p>We are using AWS for cloud computing, HTML5 for structuring the web pages, CSS3 for styling, Tailwind CSS for utility-first styling, JavaScript for dynamic functionality, and Python for backend development and automation.</p>
 </div>
 
-<h3 align="left">🔥 My Stats:</h3>
-
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarmanish562&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarmanish562&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
 
-<div align="center">
-  <img height="200" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*VMmvImch6VU5pc2VktY1uw.gif" />
-</div>
-
-###
-![logo](
-<h3 align="left">🔥 Contribution & Streaks</h3>
-
-<div align="center">
-  <!-- Contribution graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarmanish562&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+c="https://github-readme-streak-stats.herokuapp.com/?user=kumarmanish562&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
