@@ -1,108 +1,113 @@
+# 👋 Hi, I’m Manish Kumar!
 
-
-## 👋 Hello! I'm Manish Kumar
-
-I’m a passionate **Frontend Engineer** from **Bhilai, India**. I specialize in building modern, responsive web applications, with a particular focus on **React.js**, **TypeScript**, and **Cloud Computing**. My primary goal is to create engaging user interfaces that are not only visually appealing but also user-friendly and performant.
-
-### 🔭 Currently Working On:
-- **Frontend Development** with **React.js**, **TypeScript**, and **Tailwind CSS** for seamless web experiences.
-- Deep diving into **AWS** services to incorporate cloud-based solutions into my projects.
-- Enhancing my knowledge of **Next.js** for server-side rendering and static site generation.
-- Contributing to **Open Source Projects** that drive positive social impact.
-
-### 📚 Learning & Growth:
-- Building expertise in **React** and mastering **State Management** using tools like **Redux** and **Context API**.
-- Expanding my knowledge of **TypeScript** for enhanced code quality and maintainability.
-- Completing my **AWS certification** and learning **Serverless Technologies** for scalable, cloud-based applications.
-
-### 🌱 Outside of Tech:
-- Actively exploring new web tools and frameworks to stay ahead in the fast-evolving tech world.
-- Contributing to open-source projects and collaborating with like-minded developers to solve real-world challenges.
+🌏 **Frontend Engineer | Bhilai, India**  
+🚀 Building seamless, modern web experiences with **React.js**, **TypeScript**, and **Cloud Computing**.
 
 ---
 
-## 🛠 Technologies & Tools
+## 🚀 About Me
 
-### **Frontend Development:**
-- **React.js** & **Next.js** for creating dynamic and optimized web applications.
-- **TypeScript** for enhancing code safety and reducing errors.
-- **Tailwind CSS** for highly customizable, utility-first styling.
-
-### **Backend & Cloud Technologies:**
-- **AWS** (EC2, Lambda, S3, DynamoDB) for hosting and scalable cloud solutions.
-- **Node.js** for backend API development.
-- **MongoDB** & **Firebase** for database management and real-time syncing.
-
-### **Version Control:**
-- **Git** & **GitHub** for version control and seamless collaboration on projects.
-
-### **Other Tools:**
-- **VS Code** as my primary IDE for web development.
-- **Postman** for API testing and validation.
-- **Figma** for UI/UX design, prototyping, and collaboration.
+I’m a passionate frontend developer focused on crafting **engaging, performant, and accessible web applications**.  
+I thrive on solving real-world problems, exploring the latest in tech, and collaborating with the global developer community.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarmanish562&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kumarmanish562&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmanish562&theme=dark&hide_border=false&layout=compact)  
+### **Frontend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" style="background-color:white; border-radius:5px; padding:3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+</p>
 
----
+### **Backend & Cloud**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
 
-### 📝 Additional Languages & Tools:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo" />
-</div>
-
-
-You can manually list languages here or display any other technologies you are familiar with in this section.
-
-## 💻 Featured Projects
-
-### **AI-Powered Depression Detection System**
-- **Tech Stack**: React.js, Tailwind CSS, DASS-21 Dataset, FER-2013 Dataset, Machine Learning (Python)
-- A web application that leverages AI models to analyze and detect depression levels, providing real-time feedback to users.
-
+### **Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="background-color:white; border-radius:5px; padding:2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+</p>
 
 ---
 
-## 🧑‍💻 Let's Connect
+## 🌱 Currently Growing In
 
-- **Email**: [kumarmanish562@gmail.com](mailto:kumarmanish562@gmail.com)
-
-
----
-
-## 🌱 Collaboration & Contribution
-
-I’m always open to collaborating with other developers, working on innovative projects, and contributing to open-source initiatives. If you have any exciting projects or ideas, feel free to reach out, and let’s build something amazing together!
+- **Advanced React**: Hooks, Context API, and performance optimization  
+- **TypeScript**: Strong typing for robust code  
+- **Next.js**: SSR & SSG for lightning-fast apps  
+- **AWS & Serverless**: Scalable, cloud-native solutions  
+- **Open Source**: Contributing to impactful projects
 
 ---
 
-## 🐍 Snake Animation
+## 🏆 Featured Project
 
-![Snake animation](https://raw.githubusercontent.com/kumarmanish562/kumarmanish562/output/snake.svg)
-
----
-
-## 👀 View Count
-
-![View Count](https://visitcount.itsvg.in/api?id=kumarmanish562&icon=0&color=0)
+### 🧠 **AI-Powered Depression Detection System**
+> _React.js · Tailwind CSS · Python ML · DASS-21 & FER-2013 Datasets_  
+A web app leveraging AI to analyze and detect depression levels, offering real-time feedback and support.
 
 ---
 
-## 🚀 About This Profile
+## 📂 Other Projects
 
-This profile represents my journey as a frontend developer and my pursuit of continuous learning and improvement. The projects here are open-source, and I encourage anyone to contribute, learn, and collaborate with me. Thank you for visiting my profile!
+- 🛒 [E-Commerce Dashboard](https://github.com/kumarmanish562) – React, Node, MongoDB  
+- 📞 [Voice Translator App](https://github.com/kumarmanish562) – React Native, ML  
+- 📅 [3-Month Task Tracker](https://github.com/kumarmanish562) – React + Express + MongoDB  
 
+---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarmanish562&theme=react&show_icons=true&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarmanish562&theme=react&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 **Email:** [kumarmanish562@gmail.com](mailto:kumarmanish562@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/kumarmanish562](https://linkedin.com/in/kumarmanish562)  
+- 🐙 **GitHub:** [github.com/kumarmanish562](https://github.com/kumarmanish562)
+
+---
+
+## 🤝 Collaboration & Open Source
+
+I love collaborating on innovative projects, especially those with a social impact.  
+**Let’s build something amazing together!**  
+Feel free to reach out if you have an idea or want to contribute.
+
+---
+
+## 🐍 Fun Extras
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kumarmanish562/kumarmanish562/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=kumarmanish562&icon=0&color=0" alt="View Count" />
+</p>
+
+---
+
+## ✨ About This Profile
+
+This profile is a snapshot of my journey as a developer —  
+**always learning, always building, and always open to new challenges.**  
+_Thanks for stopping by! ⭐️_
