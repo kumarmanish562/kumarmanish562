@@ -45,27 +45,27 @@ I thrive on solving real-world problems, exploring the latest in tech, and colla
 
 ## 🌱 Currently Growing In
 
-- **Advanced React**: Hooks, Context API, and performance optimization  
-- **TypeScript**: Strong typing for robust code  
+- **Advanced React**: Custom Hooks, Context API, useReducer, performance tuning  
+- **TypeScript**: Strong typing for scalable and robust code  
 - **Next.js**: SSR & SSG for lightning-fast apps  
 - **AWS & Serverless**: Scalable, cloud-native solutions  
-- **Open Source**: Contributing to impactful projects
+- **Open Source**: Contributing to impactful global projects
 
 ---
 
 ## 🏆 Featured Project
 
-### 🧠 **AI-Powered Depression Detection System**
+### 🧠 [AI-Powered Depression Detection System](https://github.com/kumarmanish562/depression-detection)
 > _React.js · Tailwind CSS · Python ML · DASS-21 & FER-2013 Datasets_  
 A web app leveraging AI to analyze and detect depression levels, offering real-time feedback and support.
 
----
+--
 
-## 📂 Other Projects
+## 🏅 Certifications & Achievements
 
-- 🛒 [E-Commerce Dashboard](https://github.com/kumarmanish562) – React, Node, MongoDB  
-- 📞 [Voice Translator App](https://github.com/kumarmanish562) – React Native, ML  
-- 📅 [3-Month Task Tracker](https://github.com/kumarmanish562) – React + Express + MongoDB  
+- 🥈 2nd Place – Frontend Hackathon, Rungta College  
+- ✅ Certified – Full Stack Web Development (TheVBlackThreat)  
+- 🌐 AWS Cloud Practitioner – *In Progress*  
 
 ---
 
