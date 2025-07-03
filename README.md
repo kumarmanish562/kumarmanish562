@@ -222,6 +222,31 @@
   <a href=https://github.com/kumarmanish562?page=3&tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
+<p align="left">
+
+  <a href="https://github.com/kumarmanish562/disney_clone_frontend">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=disney_clone_frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="disney_clone_frontend">
+  </a>
+
+  <a href="https://github.com/kumarmanish562/AnMa-Academy">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=AnMa-Academy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AnMa-Academy">
+  </a>
+
+  <a href="https://github.com/kumarmanish562/PORTFOLIO_Mk">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=PORTFOLIO_Mk&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PORTFOLIO_Mk">
+  </a>
+
+  <a href="https://github.com/kumarmanish562/gamer_platform">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=gamer_platform&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="gamer_platform">
+  </a>
+
+  <a href="https://github.com/kumarmanish562/MGaming">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=MGaming&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MGaming">
+  </a>
+
+</p>
+
+
 <br><br><br><br>
 
 # <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Connect With Me:
