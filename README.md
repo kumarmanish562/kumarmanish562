@@ -20,9 +20,13 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Machine Learning Algorithm's <br><br><br>
-💬 Ask me about Machine Learning<br><br><br>
-📫 How to reach me qmanishkumar562gmail.com<br><br><br>
+🌱 I’m currently learning Machine Learning Algorithms and diving deep into AI concepts. <br><br>
+💬 Ask me about anything related to Machine Learning, Prompt Engineering, or Web Development. <br><br>
+🚀 I love turning ideas into real-world projects and exploring the intersection of data and intelligence. <br><br>
+🛠️ Experienced in building full-stack web applications using React.js, Tailwind CSS, Node.js, and Express. <br><br>
+📚 Always eager to learn new technologies and solve real-world challenges through code. <br><br>
+🤝 Open to collaboration on innovative tech projects, especially in AI/ML and modern web development. <br><br>
+📫 How to reach me: qmanishkumar562@gmail.com <br><br>
 
 <!-- 🚀 See My Code Profile: [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?style=for-the-badge&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/profile/kishankumar13281) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/krss132005/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krss132005) -->
@@ -39,7 +43,7 @@
 
 
 
-
+                                                      
 <br><br><br>
 
 
@@ -60,6 +64,59 @@
 
 <br><br>
 
+
+---
+
+### 🧩 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="35"> <b>Web Development</b>
+
+<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c5d64b4fe5123a2/resources/img/dev.gif" width="100%" alt="Web Development Banner"/>
+
+---
+
+## 🚀 Frontend Development
+
+[![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
+## 🛠 Backend Development
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![Mongoose](https://img.shields.io/badge/Mongoose-A33F23?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)  
+[![bcrypt](https://img.shields.io/badge/bcrypt-00599C?style=for-the-badge&logo=security&logoColor=white)](https://www.npmjs.com/package/bcrypt)  
+[![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)  
+[![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
+
+---
+
+### 🌍 Hosting & Version Control
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarmanish562)  
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)  
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)  
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com/)
+
+---
+
+### 🧠 Tools Used for Web Dev Projects
+
+- 🔐 Authentication using **JWT** and **bcrypt**
+- 📦 **Mongoose ODM** for MongoDB modeling
+- ⚙️ Reusable React Components
+- 🌈 UI styled with **Tailwind** or **Bootstrap**
+- 🔄 APIs built in **Express.js**
+- ☁️ Hosted using **Render**, **Vercel**, or **Netlify**
+
+---
+<br> <br>
 ## Machine Learning 
 [![Tensorflow](<https://img.shields.io/badge/TensorFlow-rgb(249,130,3)?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=> )](https://www.tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
