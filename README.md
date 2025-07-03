@@ -13,13 +13,7 @@
 </p> 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-
-
-
 # 💫 About Me:
-
 🌱 I’m currently learning Machine Learning Algorithms and diving deep into AI concepts. <br><br>
 💬 Ask me about anything related to Machine Learning, Prompt Engineering, or Web Development. <br><br>
 🚀 I love turning ideas into real-world projects and exploring the intersection of data and intelligence. <br><br>
@@ -34,33 +28,27 @@
 <br><br><br>
 ⭐ Profile Views:  <a href="https://komarev.com/ghpvc/?username=kumarmanish562">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kumarmanish562&style=for-the-badge&color=grey"/></a><br><br><br>
-
 🩵GitHub profile:  [![Git Profile](https://img.shields.io/badge/GitProfile-%23ADD8E6.svg?style=for-the-badge)](https://gitscore.ai/kumarmanish562)<br><br>
-
-
-
-<!-- [![⚡ Visit My Portfolio – Electric Aura](https://img.shields.io/badge/⚡%20Visit%20My%20Portfolio-Electric%20Aura-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white)](https://electric-aura-resume.vercel.app/) -->
-
-
-
-                                                      
+[![Visit Portfolio](https://img.shields.io/badge/💼%20Visit%20Portfolio-Click_Here-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white)](https://kumarmanish562.github.io/PORTFOLIO_Mk/)                                         
 <br><br><br>
-
-
-
-
-
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Tech Stack</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
+## 🧠 Programming Languages I'm Learning & Using
 
-## Programming Languages
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.com/)
-<!-- [![R](https://img.shields.io/badge/R-FF00FF?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) -->
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-<!-- [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) -->
-<!-- [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) -->
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)<br>
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)<br>
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)<br>
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)<br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br>
+
+---
+
+### 📚 Currently Learning:
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)<br>
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)<br>
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)<br>
+
+
 
 <br><br>
 
@@ -117,103 +105,54 @@
 
 ---
 <br> <br>
-## Machine Learning 
-[![Tensorflow](<https://img.shields.io/badge/TensorFlow-rgb(249,130,3)?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=> )](https://www.tensorflow.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-<br><br>
+## 🚀 Machine Learning  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FE6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)<br>
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)<br><br>
 
-<!-- ## Data Analysis 
-[![Pandas](https://img.shields.io/badge/Pandas-61DBFB?style=for-the-badge&labelColor=black&logo=pandas&logoColor=61DBFB)](https://pandas.pydata.org/)
-[![Numpy](https://img.shields.io/badge/Numpy-66e599?style=for-the-badge&labelColor=black&logo=numpy&logoColor=66e599)](https://numpy.org/)
-[![SCIPY](https://img.shields.io/badge/Scipy-000000?style=for-the-badge&logo=scipy&logoColor=blue)](https://www.scipy.org/)
-[![Polars](https://img.shields.io/badge/Polars-%23000000.svg?style=for-the-badge&logo=polars&logoColor=white)](https://pola.rs/)
-<br><br> -->
+## 🌐 Web Application Framework  
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)<br><br>
 
-<!-- ## Visualization 
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-%232d2d2d.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Folium](https://img.shields.io/badge/Folium-%23663399.svg?style=for-the-badge&logo=folium&logoColor=white)](https://python-visualization.github.io/folium/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-%23FFD700.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
-<br><br> -->
+## 📊 Data Analysis  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)<br>
+[![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)<br>
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black)](https://www.scipy.org/)<br>
+[![Polars](https://img.shields.io/badge/Polars-000000?style=for-the-badge&logo=polars&logoColor=white)](https://pola.rs/)<br><br>
 
-## Web Application framework
-[![Streamlit](https://img.shields.io/badge/Streamlit-%23FF5733.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-<!-- [![Gradio](https://img.shields.io/badge/Gradio-%230072b1.svg?style=for-the-badge&logo=gradio&logoColor=white)](https://www.gradio.app/) -->
+## 📈 Data Visualization  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)<br>
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)<br>
+[![Seaborn](https://img.shields.io/badge/Seaborn-2d2d2d?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)<br>
+[![Folium](https://img.shields.io/badge/Folium-663399?style=for-the-badge&logo=folium&logoColor=white)](https://python-visualization.github.io/folium/)<br>
+[![Power BI](https://img.shields.io/badge/Power%20BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)<br><br>
 
+## 🧠 AI & LLM  
+[![Transformers](https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)<br>
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)<br>
+[![LangChain](https://img.shields.io/badge/LangChain-3a6df7?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)<br><br>
 
-<!-- ## AI&LLM
+## 🔎 Data Scraping  
+[![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=blue)](https://docs.python-requests.org/en/master/)<br>
+[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=green)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)<br><br>
 
-![Transformers](https://img.shields.io/badge/Transformers-%23FF6F61?style=for-the-badge&logo=huggingface&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-%23000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%233a6df7?style=for-the-badge&logo=langchain&logoColor=white) -->
-
-
-
-
-<!-- ## Data Scraping 
-[![Requests](https://img.shields.io/badge/requests-%23000000.svg?style=for-the-badge&logo=requests&logoColor=blue)](https://docs.python-requests.org/en/master/)
-[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23000000.svg?style=for-the-badge&logo=beautifulsoup&logoColor=green)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) -->
-
-
-<!-- ## IBM TOOLS
-
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://www.ibm.com/products/cognos-analytics" target="_blank">
-    <img src="https://img.shields.io/badge/IBM%20Cognos%20BI-Red?style=for-the-badge&logo=ibm&logoColor=white&labelColor=FF0000&color=FF6347" alt="IBM Cognos BI">
-  </a>
-  
-  <a href="https://www.ibm.com/cloud/watson-autoai" target="_blank">
-    <img src="https://img.shields.io/badge/IBM%20Watson%20AutoAI-SKYBLUE?style=for-the-badge&logo=ibm&logoColor=white&labelColor=00BFFF&color=87CEEB" alt="IBM Watson AutoAI">
-  </a>
-
-  <a href="https://www.ibm.com/cloud/watson-assistant" target="_blank">
-    <img src="https://img.shields.io/badge/IBM%20Watson%20Assistant-Purple?style=for-the-badge&logo=ibm&logoColor=white&labelColor=800080&color=FF1493" alt="IBM Watson Assistant">
-  </a>
-
-  <a href="https://www.ibm.com/cloud/machine-learning" target="_blank">
-    <img src="https://img.shields.io/badge/Watson%20Machine%20Learning-Yellow?style=for-the-badge&logo=ibm&logoColor=white&labelColor=FF6347&color=FFD700" alt="IBM Watson Machine Learning">
-  </a>
-</div> -->
-
-
-
-
-
-
-
+## 🧰 IBM Tools  
+[![IBM Cognos BI](https://img.shields.io/badge/IBM%20Cognos%20BI-FF0000?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/cognos-analytics)<br>
+[![IBM Watson AutoAI](https://img.shields.io/badge/IBM%20Watson%20AutoAI-00BFFF?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/cloud/watson-autoai)<br>
+[![IBM Watson Assistant](https://img.shields.io/badge/IBM%20Watson%20Assistant-800080?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/cloud/watson-assistant)<br>
+[![Watson Machine Learning](https://img.shields.io/badge/Watson%20Machine%20Learning-FFD700?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/cloud/machine-learning)<br>
 
 ## Designing
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-<!-- [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-<br><br> -->
-
-
 ## Prompting 
-
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300FF00.svg?style=for-the-badge&logo=openai&logoColor=white)](https://www.openai.com/gpt-3/)
 [![Claud AI](https://img.shields.io/badge/ClaudAI-Silver?style=for-the-badge&logo=claud&logoColor=white&color=C0C0C0)](https://claud.ai/)
 [![Gemini AI](https://img.shields.io/badge/GeminiAI-Orange?style=for-the-badge&logo=gemini&logoColor=white&color=FFA500)](https://www.gemini.ai/)
-
 <br><br>
-
 ## IDE
 [![Google Colab](https://img.shields.io/badge/Google_Colab-Gradient_Yellow?style=for-the-badge&logo=google-colab&logoColor=white&color=ffd700)](https://colab.research.google.com/github/kumarmanish562)
-[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-Radiant_Greenyellow?style=for-the-badge&logo=PyCharm&logoColor=white&color=00CC6A)](https://www.jetbrains.com/pycharm/)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blue)](https://code.visualstudio.com/)
-
 ## Cloud
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/kumarmanish562)](https://github.com/kumarmanish562)
-
 <br><br><br>
-
-
-
-
-
-
-
 
 
 
@@ -270,15 +209,9 @@
    [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/machine-learning)
 
 
-   <!-- [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge&logo=openai&logoColor=white)](https://www.ibm.com/topics/prompt-engineering) -->
-   
- 
-   
+ [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge&logo=openai&logoColor=white)](https://www.ibm.com/topics/prompt-engineering)
+      
    <br><br><br>
-
-
-
-
 
    <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
@@ -295,43 +228,22 @@
 
 <!-- </details> -->
 
-
 <p align="center">
   <a href=https://github.com/kumarmanish562?page=3&tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-
 <br><br><br><br>
 
-
-
-
-
-
-
-
-
-<!-- # <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kishan-kumar-037175259/)
-[![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=red&style=for-the-badge)](mailto:krss132005@gmail.com)
-<!-- [![Discord](https://img.shields.io/badge/Discord-%238A2BE2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/tenacious_quail_34080) -->
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/kish130105?igshid=ZjF2NHRvb3BoNmpl)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23491869/kishan-kumar-suresh-kumar)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/KishanKumar1329)
+# <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Connect With Me:
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kishan-kumar-037175259/) -->
+[![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=red&style=for-the-badge)](mailto:qmanishkumar562@gmail.com)
+<!-- [![Discord](https://img.shields.io/badge/Discord-%238A2BE2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/tenacious_quail_34080)  -->
+ <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/kish130105?igshid=ZjF2NHRvb3BoNmpl) -->
+<!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23491869/kishan-kumar-suresh-kumar) -->
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/KishanKumar1329)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?logo=hackerrank&logoColor=white&color=green&style=for-the-badge)](https://www.hackerrank.com/profile/kishankumar13281)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%236A5ACD.svg?logo=kaggle&logoColor=white&color=blue&style=for-the-badge)](https://www.kaggle.com/kish1328)
-<br><br><br> --> -->
-
-
-
-
-
-
-
-
-
- 
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-%236A5ACD.svg?logo=kaggle&logoColor=white&color=blue&style=for-the-badge)](https://www.kaggle.com/kish1328) -->
+<br><br><br> 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>:
 ![](https://github-readme-stats.vercel.app/api?username=kumarmanish562&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
