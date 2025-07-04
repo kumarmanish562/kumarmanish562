@@ -28,7 +28,7 @@
 <br><br><br>
 <a href="https://komarev.com/ghpvc/?username=kumarmanish562">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kumarmanish562&style=for-the-badge&color=grey"/></a><br><br><br>
-[![Git Profile](https://img.shields.io/badge/GitProfile-%23ADD8E6.svg?style=for-the-badge)](https://gitscore.ai/kumarmanish562)<br><br>
+[![Git Profile](https://img.shields.io/badge/GitProfile-%23ADD8E6.svg?style=for-the-badge)](https://gitscore.ai/kumarmanish562)<br><br><br
 [![Visit Portfolio](https://img.shields.io/badge/💼%20Visit%20Portfolio-Click_Here-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white)](https://kumarmanish562.github.io/PORTFOLIO_Mk/)                                         
 <br><br><br>
 
