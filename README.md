@@ -26,11 +26,12 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krss132005) -->
 
 <br><br><br>
-⭐ Profile Views:  <a href="https://komarev.com/ghpvc/?username=kumarmanish562">
+<a href="https://komarev.com/ghpvc/?username=kumarmanish562">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kumarmanish562&style=for-the-badge&color=grey"/></a><br><br><br>
-🩵GitHub profile:  [![Git Profile](https://img.shields.io/badge/GitProfile-%23ADD8E6.svg?style=for-the-badge)](https://gitscore.ai/kumarmanish562)<br><br>
+[![Git Profile](https://img.shields.io/badge/GitProfile-%23ADD8E6.svg?style=for-the-badge)](https://gitscore.ai/kumarmanish562)<br><br>
 [![Visit Portfolio](https://img.shields.io/badge/💼%20Visit%20Portfolio-Click_Here-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white)](https://kumarmanish562.github.io/PORTFOLIO_Mk/)                                         
 <br><br><br>
+
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Tech Stack</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 ## 🧠 Programming Languages I'm Learning & Using
