@@ -37,13 +37,15 @@
 
 <br>
 
+<!-- 🔍 GitScore Badge Section -->
 <p align="center">
-  <a href="https://gitscore.ai/kumarmanish562">
+  <a href="https://gitscore.ai/kumarmanish562" target="_blank">
     <img src="https://img.shields.io/badge/GitScore.ai-Check_My_GitHub_Score-%2300C7B7?style=for-the-badge&logo=github&logoColor=white" alt="GitScore"/>
   </a>
   <br>
-  <sub>📊 See my GitHub contribution rating & performance</sub>
+  <sub><b>📊 Track My GitHub Performance & Contribution Stats on GitScore</b></sub>
 </p>
+
 
 <br>
 
