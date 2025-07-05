@@ -12,7 +12,7 @@
 </p> 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-# 💫 About Me:
+# 💫 About Me: <br><br>
 🌱 I’m currently learning Machine Learning Algorithms and diving deep into AI concepts. <br><br>
 💬 Ask me about anything related to Machine Learning, Prompt Engineering, or Web Development. <br><br>
 🚀 I love turning ideas into real-world projects and exploring the intersection of data and intelligence. <br><br>
@@ -25,11 +25,36 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krss132005) -->
 
 <br><br><br>
-<a href="https://komarev.com/ghpvc/?username=kumarmanish562">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kumarmanish562&style=for-the-badge&color=grey"/></a><br><br><br>
-[![Git Profile](https://img.shields.io/badge/GitProfile-%23ADD8E6.svg?style=for-the-badge)](https://gitscore.ai/kumarmanish562)<br><br><br
-[![Visit Portfolio](https://img.shields.io/badge/💼%20Visit%20Portfolio-Click_Here-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white)](https://kumarmanish562.github.io/PORTFOLIO_Mk/)                                         
-<br><br><br>
+<h2 align="center">🔗 Connect & Explore</h2>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=kumarmanish562">
+    <img src="https://komarev.com/ghpvc/?username=kumarmanish562&style=for-the-badge&color=grey" alt="Profile Views"/>
+  </a>
+  <br>
+  <sub>👀 Profile Views Tracker</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://gitscore.ai/kumarmanish562">
+    <img src="https://img.shields.io/badge/GitScore.ai-Check_My_GitHub_Score-%2300C7B7?style=for-the-badge&logo=github&logoColor=white" alt="GitScore"/>
+  </a>
+  <br>
+  <sub>📊 See my GitHub contribution rating & performance</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://kumarmanish562.github.io/PORTFOLIO_Mk/">
+    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20My%20Portfolio-Explore_Now-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+  </a>
+  <br>
+  <sub>🌐 Discover my work, skills, and projects on my personal portfolio</sub>
+</p>
+
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Tech Stack</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
