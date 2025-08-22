@@ -2,21 +2,15 @@
 <p align="center">
   <img src="manishkumar.png" alt="Manish Kumar" width="1000" style="border-radius:50%;" />
 </p>
-
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
 <h1 align="center">Hi Everyone I'm Manish Kumar 🇮🇳</h1>
-
-<p align="left">
-  
-![MasterHead](https://assets-global.website-files.com/6009d2de23c011ecef1fbe7a/65bad3b4a3298ddfbc2ea8fc_tacpoint-blog-v1-20240131.gif)
-
 <p align="center">
-  <a href="https://github.com/kumarmanish562 /readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=orange&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub!;Passionate+about+Data+Science;Machine+Learning+Enthusiast;Prompt+Engineer;Continuous+Learner;Open+to+Collaborations">
-  </a>
-</p> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00FFFF&size=28&center=true&vCenter=false&width=600&height=40&lines=Welcome+to+my+GitHub!;Passionate+about+Devops+Learner;Machine+Learning+Enthusiast;Prompt+Engineer;Continuous+Learner;Open+to+Collaborations" alt="Typing SVG"/>
+</p>
+
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 # 💫 About Me: <br><br>
