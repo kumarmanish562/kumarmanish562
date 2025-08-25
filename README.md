@@ -111,24 +111,23 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarmanish562&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmanish562&layout=compact&theme=tokyonight" height="180px"/>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarmanish562&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmanish562&layout=compact&theme=tokyonight&cache_seconds=1800" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarmanish562&theme=tokyonight" height="180px"/>
+  <!-- Streak Stats (alt service) -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=kumarmanish562&theme=tokyonight" height="180px"/>
 </p>
-
----
-
-<!-- ============================== -->
-<!-- 🏆 Trophies -->
-<!-- ============================== -->
-## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumarmanish562&theme=onestar&no-frame=true&margin-w=10&row=1" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarmanish562&theme=tokyo-night&hide_border=true&t=1" />
 </p>
+
+
+
 
 ---
 
@@ -138,7 +137,7 @@
 ## ⚡ Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarmanish562&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarmanish562&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
