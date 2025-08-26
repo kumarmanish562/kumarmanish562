@@ -121,10 +121,8 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=kumarmanish562&theme=tokyonight" height="180px"/>
 </p>
 
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarmanish562&theme=tokyo-night&hide_border=true&t=1" />
-</p>
+
+  
 
 
 
