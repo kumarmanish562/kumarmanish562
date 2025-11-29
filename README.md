@@ -19,16 +19,31 @@
 <!-- ============================== -->
 ## 💫 About Me
 
-- 🌱 Currently learning **ML Algorithms** & diving deep into **AI concepts**  
-- 💬 Ask me about **Machine Learning, Prompt Engineering, Web Development**  
-- 🚀 Love **turning ideas into real-world projects**  
-- 🛠️ Skilled in **React, Tailwind, Node.js, Express**  
-- 📚 Always eager to **learn & explore new tech**  
-- 🤝 Open to **collaborations in AI/ML & modern web dev**  
-- 📫 Reach me at: **qmanishkumar562@gmail.com**
+> *"Turning ideas into real-world projects."*
+
+| | |
+| :--- | :--- |
+| 🌱 **Currently Learning** | **ML Algorithms** & diving deep into **AI concepts** |
+| 💬 **Ask Me About** | **Machine Learning**, **Prompt Engineering**, **Web Development** |
+| 🛠️ **Tech Stack** | **React**, **Tailwind**, **Node.js**, **Express** |
+| 🚀 **Passion** | Turning ideas into real-world projects |
+| 🤝 **Collaboration** | Open to **collaborations in AI/ML & modern web dev** |
+| 📫 **Reach Me At** | [**qmanishkumar562@gmail.com**](mailto:qmanishkumar562@gmail.com) |
 
 ---
 
+
+
+<!-- Earned Badges -->
+<p align="center">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=594048DA039F213CFD3208681072F14AAA4504DA95B051D39328EBD4550D7F5B" target="_blank">
+    <img src="./Badges/Certified%20AI%20Foundations%20Associate.jpeg" width="150px" alt="Certified AI Foundations Associate" style="margin: 10px;">
+  </a>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B5FE4BF9FC1EC4747F911BB7BDAA7D7F6AFF82995240F1E0B0E976FCABFA46DC" target="_blank">
+    <img src="./Badges/Certified%20Generative%20AI%20Professional.jpg" width="150px" alt="Certified Generative AI Professional" style="margin: 10px;">
+  </a>
+  <img src="./Badges/OCI_Level1.png" width="150px" alt="Race to Certification 2025" style="margin: 10px;">
+</p>
 <!-- ============================== -->
 <!-- 🔗 Portfolio / Social Links -->
 <!-- ============================== -->
