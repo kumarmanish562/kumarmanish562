@@ -1,8 +1,13 @@
 <!-- ============================== -->
+
 <!-- 🌟 Hero Section -->
+
 <!-- ============================== -->
+
 <p align="center">
+
   <img src="manishkumar.png" alt="Manish Kumar" width="1000" style="border-radius:50%; border: 4px solid #00FFFF;" />
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Kumar 🇮🇳</h1>
@@ -14,25 +19,19 @@
 
 ---
 
-<!-- ============================== -->
-<!-- 🌍 About Me -->
-<!-- ============================== -->
 ## 💫 About Me
 
-- 🌱 Currently learning *ML Algorithms* & diving deep into *AI concepts*  
-- 💬 Ask me about *Machine Learning, Prompt Engineering, Web Development*  
-- 🚀 Love *turning ideas into real-world projects*  
-- 🛠 Skilled in *React, Tailwind, Node.js, Express*  
-- 📚 Always eager to *learn & explore new tech*  
-- 🤝 Open to *collaborations in AI/ML & modern web dev*  
-- 📫 Reach me at: *qmanishkumar562@gmail.com*
+- 🌱 Currently learning **ML Algorithms** & diving deep into **AI concepts**
+- 💬 Ask me about **Machine Learning, Prompt Engineering, Web Development**
+- 🚀 Love **turning ideas into real-world projects**
+- 🛠 Skilled in **React, Tailwind, Node.js, Express**
+- 📚 Always eager to **learn & explore new tech**
+- 🤝 Open to **collaborations in AI/ML & modern web dev**
+- 📫 Reach me at: **qmanishkumar562@gmail.com**
 
 ---
 
-<!-- ============================== -->
-<!-- 🔗 Portfolio / Social Links -->
-<!-- ============================== -->
-## 🔗 Explore More  
+## 🔗 Explore More
 
 <p align="center">
   <a href="https://kumarmanish562.github.io/PORTFOLIO_Mk/">
@@ -51,88 +50,54 @@
 
 ---
 
-<!-- ============================== -->
-<!-- 🛠 Tech Stack -->
-<!-- ============================== -->
-## ⚙ Tech Stack  
+## ⚙ Tech Stack
 
-### 🧑‍💻 Languages  
+### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🚀 Web Dev  
+### 🚀 Web Dev
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚡ Backend & DB  
+### ⚡ Backend & DB
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌍 Deployment & Tools  
+### 🌍 Deployment & Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-<!-- ============================== -->
-<!-- 📌 Projects Showcase -->
-<!-- ============================== -->
-## 📌 Featured Projects  
+## 📌 Featured Projects
+
+| 📂 Project | 📝 Description | 🛠 Stack |
+| :--- | :--- | :--- |
+| **[Disney Clone](https://github.com/kumarmanish562/disney_clone_frontend)** | A frontend clone of the Disney+ interface. | React, Styled Components |
+| **[Portfolio Website](https://github.com/kumarmanish562/PORTFOLIO_Mk)** | My personal developer portfolio. | HTML, CSS, JS |
+| **[AnMa Academy](https://github.com/kumarmanish562/AnMa-Academy)** | Educational platform web application. | MERN Stack |
+| **[Gamer Platform](https://github.com/kumarmanish562/gamer_platform)** | A social platform for gamers. | React, Node.js |
+
+---
+
+## 📊 GitHub Stats
+
+
 
 <p align="center">
-  <a href="https://github.com/kumarmanish562/disney_clone_frontend">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=disney_clone_frontend&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/kumarmanish562/PORTFOLIO_Mk">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=PORTFOLIO_Mk&theme=react&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kumarmanish562/AnMa-Academy">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=AnMa-Academy&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/kumarmanish562/gamer_platform">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=gamer_platform&theme=react&hide_border=true" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kumarmanish562&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
 ---
 
-<!-- ============================== -->
-<!-- 📊 GitHub Stats -->
-<!-- ============================== -->
-## 📊 GitHub Stats  
-
-<p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarmanish562&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmanish562&layout=compact&theme=tokyonight&cache_seconds=1800" height="180px"/>
-</p>
-
-<p align="center">
-  <!-- Streak Stats (alt service) -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=kumarmanish562&theme=tokyonight" height="180px"/>
-</p>
-
-
-  
-
-
-
-
----
-
-<!-- ============================== -->
-<!-- 📈 Activity Graph -->
-<!-- ============================== -->
-## ⚡ Contribution Graph  
+## ⚡ Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarmanish562&theme=tokyo-night&hide_border=true" />
@@ -140,11 +105,8 @@
 
 ---
 
-<!-- ============================== -->
-<!-- ✍ Random Quote -->
-<!-- ============================== -->
-## ✍ Random Dev Quote  
+## ✍ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
