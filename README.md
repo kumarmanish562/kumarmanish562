@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1"> -->
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
   <img src="./banner.svg?v=1" alt="Manish Kumar banner" width="100%">
 </picture>
@@ -124,13 +124,8 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarmanish562&theme=react-dark&hide_border=true&bg_color=081226&color=7dd3fc&line=38bdf8&point=e0f2fe)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumarmanish562/kumarmanish562/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumarmanish562/kumarmanish562/output/snake-light.svg">
-  <img src="https://raw.githubusercontent.com/kumarmanish562/kumarmanish562/output/snake-dark.svg" alt="Contribution Snake">
-</picture>
 
-*Snake animation is generated daily by `.github/workflows/github-snake.yml` and published to the `output` branch — see setup notes below.*
+
 
 </div>
 
@@ -173,22 +168,4 @@
 
 ---
 
-<details>
-<summary><strong>Setup notes (click to expand)</strong></summary>
 
-**Files in this repo**
-- `banner.svg` / `banner-light.svg` — animated hero banner, dark/light auto-switch via `<picture>`
-- `lanyard.svg` — animated developer ID badge
-- `stats.svg` — **live**: updated daily by `.github/workflows/update-stats.yml`, which runs `scripts/update_stats.py` to pull your real repo/commit/PR/issue/star/follower/streak counts from the GitHub API and re-render this exact card design. The "score"/letter grade is a heuristic I compute from those numbers, not an official GitHub ranking.
-- `langs.svg`, `trophies.svg` — local, static stat cards (sample numbers — edit the `SKILLS`/`TROPHIES` values in `gen_langs.py`/`gen_trophies.py`, or hand-edit the SVGs, since GitHub doesn't expose a "skill %" metric and trophies aren't available via a simple API without a third-party service)
-- `.github/workflows/github-snake.yml` — daily GitHub Action that regenerates the contribution snake and publishes it to an `output` branch
-
-**To activate the snake animation:** put `github-snake.yml` inside `.github/workflows/` in your `kumarmanish562/kumarmanish562` repo, push to `main`, then let it run once (or trigger it manually from the *Actions* tab). It will create the `output` branch automatically.
-
-**To activate live stats:** make sure `scripts/update_stats.py` and `.github/workflows/update-stats.yml` are both in the repo, then run the workflow once from the *Actions* tab (or push to `main`). It commits a freshly-rendered `stats.svg` straight back into the repo — no third-party badge service involved. It uses the built-in `GITHUB_TOKEN` by default; if the numbers come back as 0 (some orgs restrict what the default token can read), create a classic Personal Access Token with the `read:user` scope, add it as a repo secret named `STATS_PAT`, and the workflow will use that instead.
-
-**QR code & barcode on the lanyard** are stylized decorative patterns for visual design, not scannable codes — swap in a real QR SVG if you want it to resolve to your GitHub profile.
-
-**All animation is pure SVG/SMIL/CSS** — no JavaScript — so everything renders natively in the GitHub README viewer.
-
-</details>
