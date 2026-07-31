@@ -214,7 +214,7 @@
     <g transform="translate(40,0)">
       <g style="opacity:0;animation:fadeUp .5s ease forwards;animation-delay:3.00s">
         <text x="28" y="18" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#93c5fd">Repos</text>
-        <text x="28" y="42" font-family="'Fira Code',Consolas,monospace" font-size="21" font-weight="800" fill="#38bdf8">8+</text>
+        <text x="28" y="42" font-family="'Fira Code',Consolas,monospace" font-size="21" font-weight="800" fill="#38bdf8">20+</text>
       </g>
     </g>
     <g transform="translate(340,0)">
@@ -232,14 +232,14 @@
     <g transform="translate(940,0)">
       <g style="opacity:0;animation:fadeUp .5s ease forwards;animation-delay:3.45s">
         <text x="28" y="18" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#93c5fd">Followers</text>
-        <text x="28" y="42" font-family="'Fira Code',Consolas,monospace" font-size="21" font-weight="800" fill="#7dd3fc">25+</text>
+        <text x="28" y="42" font-family="'Fira Code',Consolas,monospace" font-size="21" font-weight="800" fill="#7dd3fc">7+</text>
       </g>
     </g>
   </g>
 
   <!-- Footer -->
   <g transform="translate(0,632)">
-    <circle cx="48.0" cy="0" r="8" fill="none" stroke="#93c5fd" stroke-width="1.4"/><text x="48.0" y="4" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="800" fill="#93c5fd">GH</text><text x="64.0" y="4" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#93c5fd">kumarmanish562</text><rect x="194.1" y="-8" width="16" height="12" rx="2" fill="none" stroke="#93c5fd" stroke-width="1.4"/><path d="M194.1 -8 l8 6 l8 -6" fill="none" stroke="#93c5fd" stroke-width="1.2"/><text x="218.1" y="4" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#93c5fd">kumar.manish.in.0328@gmail.com</text><rect x="462.6" y="-9" width="16" height="16" rx="4" fill="none" stroke="#93c5fd" stroke-width="1.4"/><text x="470.6" y="4" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.5" font-weight="800" fill="#93c5fd">in</text><text x="486.6" y="4" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#93c5fd">kumarmnish</text><circle cx="596.1" cy="-3" r="4" fill="#34d399" class="pulseDot"/><text x="612.1" y="4" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#93c5fd">open to collaborate</text><text x="1240" y="3" text-anchor="end" font-family="Georgia,serif" font-style="italic" font-size="13" fill="#7dd3fc">&#8220;Code is my art, logic is my superpower.&#8221;</text>
+    <circle cx="48.0" cy="0" r="8" fill="none" stroke="#93c5fd" stroke-width="1.4"/><text x="48.0" y="4" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="800" fill="#93c5fd">GH</text><text x="64.0" y="4" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#93c5fd">kumarmanish562</text><rect x="194.1" y="-8" width="16" height="12" rx="2" fill="none" stroke="#93c5fd" stroke-width="1.4"/><path d="M194.1 -8 l8 6 l8 -6" fill="none" stroke="#93c5fd" stroke-width="1.2"/><text x="218.1" y="4" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#93c5fd">kumar.manish.in.0328@gmail.com</text><rect x="462.6" y="-9" width="16" height="16" rx="4" fill="none" stroke="#93c5fd" stroke-width="1.4"/><text x="470.6" y="4" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.5" font-weight="800" fill="#93c5fd">in</text><text x="496.6" y="6" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#93c5fd">kumarmanish562</text><circle cx="596.1" cy="-3" r="4" fill="#34d399" class="pulseDot"/><text x="612.1" y="4" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#93c5fd">open to collaborate</text><text x="1240" y="3" text-anchor="end" font-family="Georgia,serif" font-style="italic" font-size="13" fill="#7dd3fc">&#8220;Code is my art, logic is my superpower.&#8221;</text>
   </g>
 
   <rect x="0.75" y="0.75" width="1278.5" height="718.5" rx="24" fill="none" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1.5"/>
