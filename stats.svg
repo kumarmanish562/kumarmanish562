@@ -1,0 +1,82 @@
+<svg width="480" height="320" viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#081226"/>
+    <stop offset="100%" stop-color="#0f2140"/>
+  </linearGradient>
+  <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="100%" stop-color="#6366f1"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="clip"><rect width="480" height="320" rx="18"/></clipPath>
+</defs>
+<style>
+  @keyframes rowIn { from { opacity:0; transform: translateX(6px);} to { opacity:1; transform: translateX(0);} }
+  @keyframes ringFill { from { stroke-dashoffset: 389.6; } to { stroke-dashoffset: 54.5; } }
+  .ring { animation: ringFill 1.6s ease forwards; animation-delay:.3s; }
+  @keyframes fadeUp { from {opacity:0; transform:translateY(6px);} to {opacity:1; transform:translateY(0);} }
+</style>
+<g clip-path="url(#clip)">
+<rect width="480" height="320" fill="url(#bg)"/>
+<circle cx="440" cy="10" r="90" fill="#38bdf8" opacity="0.08"/>
+<circle cx="10" cy="310" r="90" fill="#6366f1" opacity="0.08"/>
+
+<text x="24" y="34" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="800" fill="#e0f2fe">GitHub Stats &#8212; kumarmanish562</text>
+<line x1="24" y1="46" x2="456" y2="46" stroke="#1e3a5f" stroke-width="1"/>
+
+<g transform="translate(96,150)">
+  <circle r="62" fill="none" stroke="#16324f" stroke-width="10"/>
+  <circle class="ring" r="62" fill="none" stroke="url(#ringGrad)" stroke-width="10" stroke-linecap="round"
+    stroke-dasharray="389.6" stroke-dashoffset="389.6" transform="rotate(-90)" filter="url(#glow)"/>
+  <text text-anchor="middle" y="-2" font-family="'Segoe UI',Arial,sans-serif" font-size="30" font-weight="800" fill="#e0f2fe" style="opacity:0;animation:fadeUp .6s ease forwards;animation-delay:1.6s">A+</text>
+  <text text-anchor="middle" y="20" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#7dd3fc" style="opacity:0;animation:fadeUp .6s ease forwards;animation-delay:1.7s">SCORE</text>
+</g>
+<text x="96" y="240" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#67e8f9" letter-spacing="1">OVERALL RANK</text>
+
+<line x1="188" y1="56" x2="188" y2="300" stroke="#1e3a5f" stroke-width="1"/>
+
+    <g style="opacity:0;animation:rowIn .5s ease forwards;animation-delay:0.90s">
+      <rect x="208" y="47" width="12" height="12" rx="2" fill="none" stroke="#38bdf8" stroke-width="1.6"/>
+      <text x="230" y="58" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#93c5fd">Total Repositories</text>
+      <text x="230" y="74" font-family="'Fira Code',Consolas,monospace" font-size="15" font-weight="700" fill="#e0f2fe">42</text>
+    </g>
+    <g style="opacity:0;animation:rowIn .5s ease forwards;animation-delay:1.05s">
+      <circle cx="214" cy="93" r="4" fill="none" stroke="#38bdf8" stroke-width="1.6"/><line x1="214" y1="85" x2="214" y2="89" stroke="#38bdf8" stroke-width="1.6"/><line x1="214" y1="97" x2="214" y2="101" stroke="#38bdf8" stroke-width="1.6"/>
+      <text x="230" y="98" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#93c5fd">Total Commits</text>
+      <text x="230" y="114" font-family="'Fira Code',Consolas,monospace" font-size="15" font-weight="700" fill="#e0f2fe">1380</text>
+    </g>
+    <g style="opacity:0;animation:rowIn .5s ease forwards;animation-delay:1.20s">
+      <circle cx="211" cy="129" r="2.4" fill="none" stroke="#38bdf8" stroke-width="1.5"/><circle cx="211" cy="139" r="2.4" fill="none" stroke="#38bdf8" stroke-width="1.5"/><path d="M211 131.4 v5.2" stroke="#38bdf8" stroke-width="1.5" fill="none"/>
+      <text x="230" y="138" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#93c5fd">Pull Requests</text>
+      <text x="230" y="154" font-family="'Fira Code',Consolas,monospace" font-size="15" font-weight="700" fill="#e0f2fe">96</text>
+    </g>
+    <g style="opacity:0;animation:rowIn .5s ease forwards;animation-delay:1.35s">
+      <circle cx="214" cy="173" r="6" fill="none" stroke="#38bdf8" stroke-width="1.6"/><line x1="214" y1="170" x2="214" y2="174" stroke="#38bdf8" stroke-width="1.6"/><circle cx="214" cy="176.5" r="0.8" fill="#38bdf8"/>
+      <text x="230" y="178" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#93c5fd">Issues</text>
+      <text x="230" y="194" font-family="'Fira Code',Consolas,monospace" font-size="15" font-weight="700" fill="#e0f2fe">54</text>
+    </g>
+
+    <g style="opacity:0;animation:rowIn .5s ease forwards;animation-delay:0.90s">
+      <path d="M362 47 l1.8 3.7 4 .6 -3 2.9 .7 4 -3.5 -1.9 -3.5 1.9 .7 -4 -3 -2.9 4 -.6 z" fill="#38bdf8"/>
+      <text x="378" y="58" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#93c5fd">Total Stars</text>
+      <text x="378" y="74" font-family="'Fira Code',Consolas,monospace" font-size="15" font-weight="700" fill="#e0f2fe">118</text>
+    </g>
+    <g style="opacity:0;animation:rowIn .5s ease forwards;animation-delay:1.05s">
+      <circle cx="362" cy="91" r="3.2" fill="none" stroke="#38bdf8" stroke-width="1.6"/><path d="M356 101 q6 -6 12 0" fill="none" stroke="#38bdf8" stroke-width="1.6"/>
+      <text x="378" y="98" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#93c5fd">Followers</text>
+      <text x="378" y="114" font-family="'Fira Code',Consolas,monospace" font-size="15" font-weight="700" fill="#e0f2fe">210</text>
+    </g>
+    <g style="opacity:0;animation:rowIn .5s ease forwards;animation-delay:1.20s">
+      <circle cx="362" cy="131" r="3.2" fill="none" stroke="#38bdf8" stroke-width="1.6"/><path d="M356 141 q6 -6 12 0" fill="none" stroke="#38bdf8" stroke-width="1.6"/>
+      <text x="378" y="138" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#93c5fd">Following</text>
+      <text x="378" y="154" font-family="'Fira Code',Consolas,monospace" font-size="15" font-weight="700" fill="#e0f2fe">85</text>
+    </g>
+    <g style="opacity:0;animation:rowIn .5s ease forwards;animation-delay:1.35s">
+      <path d="M362 167 c3 4 4 6 4 9 a4 4 0 1 1 -8 0 c0 -1.4 .6 -2.6 1.4 -3.6 c.3 1 1 1.4 1.4 .6 c.4 -1 .3 -3.4 1.2 -6z" fill="#38bdf8"/>
+      <text x="378" y="178" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#93c5fd">Current Streak</text>
+      <text x="378" y="194" font-family="'Fira Code',Consolas,monospace" font-size="15" font-weight="700" fill="#e0f2fe">27 days</text>
+    </g>
+</g>
+<rect x="0.75" y="0.75" width="478.5" height="318.5" rx="18" fill="none" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1.5"/>
+</svg>
