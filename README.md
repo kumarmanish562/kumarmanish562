@@ -17,7 +17,7 @@
 ### Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-kumarmanish562-0b1220?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/kumarmanish562)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kumarmnish-0b1220?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/kumarmnish)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kumarmanish562?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/kumarmnish)
 [![Gmail](https://img.shields.io/badge/Gmail-kumar.manish.in.0328-0b1220?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:kumar.manish.in.0328@gmail.com)
 
 </div>
