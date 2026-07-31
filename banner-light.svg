@@ -214,7 +214,7 @@
     <g transform="translate(40,0)">
       <g style="opacity:0;animation:fadeUp .5s ease forwards;animation-delay:3.00s">
         <text x="28" y="18" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#0369a1">Repos</text>
-        <text x="28" y="42" font-family="'Fira Code',Consolas,monospace" font-size="21" font-weight="800" fill="#0284c7">8+</text>
+        <text x="28" y="42" font-family="'Fira Code',Consolas,monospace" font-size="21" font-weight="800" fill="#0284c7">20+</text>
       </g>
     </g>
     <g transform="translate(340,0)">
@@ -232,7 +232,7 @@
     <g transform="translate(940,0)">
       <g style="opacity:0;animation:fadeUp .5s ease forwards;animation-delay:3.45s">
         <text x="28" y="18" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#0369a1">Followers</text>
-        <text x="28" y="42" font-family="'Fira Code',Consolas,monospace" font-size="21" font-weight="800" fill="#0e7490">25+</text>
+        <text x="28" y="42" font-family="'Fira Code',Consolas,monospace" font-size="21" font-weight="800" fill="#0e7490">10+</text>
       </g>
     </g>
   </g>
