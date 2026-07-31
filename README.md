@@ -134,31 +134,24 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 
 ## 🚀 Featured Projects
 
-
-
 | Project | Description | Tech Stack | Repository |
-
 | :--- | :--- | :--- | :---: |
-
-| 🏙️ **Nagar Alert Hub** | AI-powered civic issue reporting platform that enables citizens to report infrastructure problems with image verification, geolocation, live tracking, and an intelligent admin dashboard. | `React` `FastAPI` `AWS` `Google Maps` `Gemini AI` `PostgreSQL` | 🔗 [Code](https://github.com/kumarmanish562/nagar-alert-hub.git) |
-
-| 🛡️ **AI-Powered Cyber Threat & Response Alert System** | Enterprise cybersecurity platform that detects malicious network traffic using Machine Learning, performs anomaly detection, and automates incident response with real-time alerts. | `Python` `FastAPI` `React` `Random Forest` `Isolation Forest` `Docker` `PostgreSQL` | 🔗 [Code](https://github.com/kumarmanish562/AI_Powered_Cyber_Threat_And_Response_Alert.git) |
-
-| ⚛️ **Quantum Fraud – Hybrid Financial Fraud Detection** | Hybrid Quantum + Classical AI system for detecting financial fraud using Qiskit and machine learning algorithms with anomaly detection for banking transactions. | `Python` `Qiskit` `Scikit-learn` `FastAPI` `React` | 🔗 [Code]((https://github.com/kumarmanish562/Quantum-Fraud-Hybrid-Financial-Anomaly-Detection.git)) |
-
-| ⚖️ **Adhikar AI** | Multilingual AI legal assistant that simplifies legal documents, answers legal queries using RAG, and helps citizens understand government laws in regional languages. | `React` `FastAPI` `Gemini AI` `RAG` `FAISS` `PostgreSQL` | 🔗 [Code]((https://github.com/kumarmanish562/Adikar_AI.git)) |
-
+| 🏙️ **Nagar Alert Hub** | AI-powered civic issue reporting platform that enables citizens to report infrastructure problems with image verification, geolocation, live tracking, and an intelligent admin dashboard. | `React` `FastAPI` `AWS` `Google Maps` `Gemini AI` `PostgreSQL` | 🔗 [Code](https://github.com/kumarmanish562/nagar-alert-hub) |
+| 🛡️ **AI-Powered Cyber Threat & Response Alert System** | Enterprise cybersecurity platform that detects malicious network traffic using Machine Learning, performs anomaly detection, and automates incident response with real-time alerts. | `Python` `FastAPI` `React` `Random Forest` `Isolation Forest` `Docker` `PostgreSQL` | 🔗 [Code](https://github.com/kumarmanish562/AI_Powered_Cyber_Threat_And_Response_Alert) |
+| ⚛️ **Quantum Fraud – Hybrid Financial Fraud Detection** | Hybrid Quantum + Classical AI system for detecting financial fraud using Qiskit and machine learning algorithms with anomaly detection for banking transactions. | `Python` `Qiskit` `Scikit-learn` `FastAPI` `React` | 🔗 [Code](https://github.com/kumarmanish562/Quantum-Fraud-Hybrid-Financial-Anomaly-Detection) |
+| ⚖️ **Adhikar AI** | Multilingual AI legal assistant that simplifies legal documents, answers legal queries using RAG, and helps citizens understand government laws in regional languages. | `React` `FastAPI` `Gemini AI` `RAG` `FAISS` `PostgreSQL` | 🔗 [Code](https://github.com/kumarmanish562/Adikar_AI) |
 | 🧠 **Depression Detection System** | AI-powered mental health screening platform that predicts depression using text analysis, facial expression recognition, speech analysis, and PHQ-9 assessments. | `Python` `TensorFlow` `OpenCV` `NLP` `Flask` | 🔗 [Code](https://github.com/kumarmanish562) |
+| 🏠 **House Price Prediction System** | Machine learning application that predicts residential property prices using multiple regression models with interactive visualizations and performance analysis. | `Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit` | 🔗 [Code](https://github.com/kumarmanish562/house_price_prediction) |
 
-| 🏠 **House Price Prediction System** | Machine learning application that predicts residential property prices using multiple regression models with interactive visualizations and performance analysis. | `Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit` | 🔗 [Code](https://github.com/kumarmanish562/house_price_prediction.git) |
+> ⭐ Most of my projects focus on **Artificial Intelligence, Full-Stack Development, Cloud Computing, Cybersecurity, and Enterprise Software Engineering**, combining modern technologies with practical real-world applications.
 <br>
 
 ## GitHub Activity
 
 <div align="center">
 <!-- <img src="./stats.svg?v=1" alt="GitHub Stats" width="35%"> -->
-<img src="./langs.svg?v=1" alt="Tech Stack Dashboard" width="35%">
-  <img src="./trophies.svg?v=1" alt="GitHub Trophies" width="50%">
+<img src="./langs.svg?v=1" alt="Tech Stack Dashboard" width="40%">
+  <img src="./trophies.svg?v=1" alt="GitHub Trophies" width="45%">
 </div>
 
 <!-- <div align="center">
@@ -184,26 +177,63 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 
 <br>
 
-## Currently Learning
+## 🌱 Currently Learning
 
-- Advanced Kubernetes & CI/CD pipelines (Jenkins, GitHub Actions)
-- System design for scalable Java backends
-- Deepening AWS (Lambda, S3 event-driven patterns)
+- ☁️ Advanced **AWS Cloud** (EC2, S3, Lambda, IAM, API Gateway)
+- ☸️ **Docker & Kubernetes** for container orchestration and scalable deployments
+- 🔄 **CI/CD Pipelines** using GitHub Actions and Jenkins
+- 🏗️ **Spring Boot**, Microservices & Enterprise Java Development
+- 📊 **System Design** for scalable and high-performance backend applications
+- 🧠 Advanced **Data Structures & Algorithms** in Java
+- 🤖 Building AI-powered applications using **Machine Learning**, **LLMs**, and **RAG**
 
-## Open Source & Roadmap
+---
 
-- 🌱 Looking to make my first contributions to open-source Java/React projects
-- 🎯 Roadmap: ship 2–3 full-stack projects, earn an AWS certification, contribute to open source
-- 🏆 Certifications & hackathon wins go here — add badges/links as you earn them
+## 🎯 2026 Goals
 
-<br>
+- 🚀 Build production-ready **Full-Stack AI Applications**
+- ☁️ Earn **AWS Cloud Practitioner** and **AWS Developer Associate** certifications
+- 🌍 Contribute consistently to **Open Source** projects
+- 📚 Strengthen Java Backend & System Design skills for Software Engineering roles
+- 🏆 Participate in more National Hackathons and Coding Competitions
+- ✨ Maintain an active GitHub with high-quality projects and clean documentation
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **Winner** — AI Impact Summit (RanchiHacks 2026)
+- 🥈 **Runner-up** — Vyom 2024 Frontend Hackathon
+- 💼 Completed **Full Stack Development Internship**
+- 🚀 Built multiple AI, Cloud, and Full-Stack projects solving real-world problems
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on:
+
+- 💻 Java & Spring Boot Projects
+- 🌐 Full-Stack Web Development
+- 🤖 AI & Machine Learning Applications
+- ☁️ Cloud & DevOps Projects
+- 🚀 Open Source Contributions
+
+---
 
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+### 💡 Favorite Quote
 
-**Turning ideas into scalable applications. Keep Coding • Keep Growing 🚀**
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
+### 🚀 Motto
+
+**Building intelligent software, solving real-world problems, and learning something new every day.**
+
+⭐ *If you like my work, consider starring my repositories!*
+
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
