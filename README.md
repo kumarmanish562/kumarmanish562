@@ -156,7 +156,7 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 ## GitHub Activity
 
 <div align="center">
-<img src="./stats.svg?v=1" alt="GitHub Stats" width="35%">
+<!-- <img src="./stats.svg?v=1" alt="GitHub Stats" width="35%"> -->
 <img src="./langs.svg?v=1" alt="Tech Stack Dashboard" width="35%">
 </div>
 
