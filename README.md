@@ -158,11 +158,12 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 <div align="center">
 <!-- <img src="./stats.svg?v=1" alt="GitHub Stats" width="35%"> -->
 <img src="./langs.svg?v=1" alt="Tech Stack Dashboard" width="35%">
+  <img src="./trophies.svg?v=1" alt="GitHub Trophies" width="50%">
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="./trophies.svg?v=1" alt="GitHub Trophies" width="50%">
-</div>
+</div> -->
 
 <div align="center">
 
