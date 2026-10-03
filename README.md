@@ -24,7 +24,20 @@
 
 <br>
 
-## 👨‍💻 About Me
+<picture>
+  <img src="./about-life.svg?v=1" alt="Manish Kumar banner" width="100%">
+</picture>
+
+<picture>
+  <img src="./manish-stack.svg?v=1" alt="Manish Kumar banner" width="100%">
+</picture>
+
+
+<picture>
+  <img src="./id-dashboard.svg?v=1" alt="Manish Kumar banner" width="100%">
+</picture>
+
+<!-- ## 👨‍💻 About Me
 
 I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student passionate about building scalable software and solving real-world problems through technology. I enjoy designing, developing, and deploying full-stack applications while continuously exploring modern software engineering practices.
 
@@ -58,9 +71,9 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 - 📈 Always learning something new and improving one project at a time.
 - 🌍 Open to internships, collaborations, and exciting software engineering opportunities.
 
-<br>
+<br> -->
 
-## 🛠️ Tech Stack
+<!-- ## 🛠️ Tech Stack
 
 <table>
 <tr>
@@ -130,7 +143,7 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 </td>
 </tr>
 </table>
-<br>
+<br> -->
 
 ## 🚀 Featured Projects
 
@@ -143,16 +156,16 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 | 🧠 **Depression Detection System** | AI-powered mental health screening platform that predicts depression using text analysis, facial expression recognition, speech analysis, and PHQ-9 assessments. | `Python` `TensorFlow` `OpenCV` `NLP` `Flask` | 🔗 [Code](https://github.com/kumarmanish562) |
 | 🏠 **House Price Prediction System** | Machine learning application that predicts residential property prices using multiple regression models with interactive visualizations and performance analysis. | `Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit` | 🔗 [Code](https://github.com/kumarmanish562/house_price_prediction) |
 
-> ⭐ Most of my projects focus on **Artificial Intelligence, Full-Stack Development, Cloud Computing, Cybersecurity, and Enterprise Software Engineering**, combining modern technologies with practical real-world applications.
+> ⭐ Most of my projects focus on **Artificial Intelligence, Full-Stack Development, Cloud Computing,  and Enterprise Software Engineering**, combining modern technologies with practical real-world applications.
 <br>
 
-## GitHub Activity
+<!-- ## GitHub Activity
 
 <div align="center">
 <!-- <img src="./stats.svg?v=1" alt="GitHub Stats" width="35%"> -->
-<img src="./langs.svg?v=1" alt="Tech Stack Dashboard" width="40%">
+<!-- <img src="./langs.svg?v=1" alt="Tech Stack Dashboard" width="40%">
   <img src="./trophies.svg?v=1" alt="GitHub Trophies" width="45%">
-</div>
+</div> -->
 
 <!-- <div align="center">
 <img src="./trophies.svg?v=1" alt="GitHub Trophies" width="50%">
@@ -160,20 +173,19 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarmanish562&theme=react-dark&hide_border=true&bg_color=081226&color=7dd3fc&line=38bdf8&point=e0f2fe)
-
-
-
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  alt="GitHub 3D Contribution Graph"
+  width="100%"
+/>
 
 </div>
 
-<br>
-
-## Developer ID Badge
+<!-- ## Developer ID Badge
 
 <div align="center">
 <img src="./lanyard.svg?v=1" alt="Developer ID badge" width="340">
-</div>
+</div> -->
 
 <br>
 
@@ -210,16 +222,9 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 ---
 
 ## 🤝 Let's Connect
-
-I'm always open to collaborating on:
-
-- 💻 Java & Spring Boot Projects
-- 🌐 Full-Stack Web Development
-- 🤖 AI & Machine Learning Applications
-- ☁️ Cloud & DevOps Projects
-- 🚀 Open Source Contributions
-
----
+<picture>
+  <img src="./manish-connect.svg?v=1" alt="Manish Kumar banner" width="100%">
+</picture>
 
 <div align="center">
 
