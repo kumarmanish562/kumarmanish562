@@ -21,19 +21,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: kumarmanish562
-          MAX_REPOS: 100
-          SETTING_JSON: profile-3d-contrib/settings.json
 
       - name: Commit generated files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add -A profile-3d-contrib
+          git add -A .
 
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "No changes to commit."
           else
-            git commit -m "chore: update Manish GitHub 3D stats"
+            git commit -m "chore: update GitHub 3D contribution graph"
             git push
           fi
