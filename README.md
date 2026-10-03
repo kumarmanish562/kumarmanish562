@@ -171,13 +171,48 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 <img src="./trophies.svg?v=1" alt="GitHub Trophies" width="50%">
 </div> -->
 
+## 📊 GitHub Contribution & Language Analytics
+
 <div align="center">
 
+<!-- GitHub Stats -->
 <img
-  src="./profile-3d-contrib/profile-night-rainbow.svg"
-  alt="GitHub 3D Contribution Graph"
-  width="100%"
+  src="https://github-readme-stats.vercel.app/api?username=kumarmanish562&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=38bdf8&icon_color=7dd3fc&text_color=e2e8f0"
+  width="49%"
+  alt="Manish Kumar GitHub Stats"
 />
+
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmanish562&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=38bdf8&text_color=e2e8f0"
+  width="49%"
+  alt="Manish Kumar Top Languages"
+/>
+
+<br><br>
+
+<!-- GitHub Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=kumarmanish562&theme=tokyonight&hide_border=true&background=0b1020&ring=38bdf8&fire=7dd3fc&currStreakLabel=38bdf8"
+  width="70%"
+  alt="Manish Kumar GitHub Contribution Streak"
+/>
+
+<br><br>
+
+
+<br><br>
+
+<!-- 3D Contributions -->
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg?v=6"
+  width="100%"
+  alt="Manish Kumar GitHub 3D Contribution Graph"
+/>
+
+<br><br>
+
+
 
 </div>
 
