@@ -257,11 +257,23 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 ---
 
 ## 🤝 Let's Connect
-<picture>
+<!-- <picture>
   <img src="./manish-connect.svg?v=1" alt="Manish Kumar banner" width="100%">
 </picture>
 
+<div align="center"> -->
+
 <div align="center">
+
+<img src="connect-banner.svg" alt="Let's connect with Manish Kumar" width="100%"/>
+
+<a href="https://github.com/kumarmanish562"><img src="connect-github.svg" alt="GitHub" width="49%"/></a>
+<a href="https://www.linkedin.com/in/kumarmanish562"><img src="connect-linkedin.svg" alt="LinkedIn" width="49%"/></a>
+<a href="https://kumarmanish562.github.io/Kumar_manish_0328/"><img src="/connect-portfolio.svg" alt="Portfolio" width="49%"/></a>
+<a href="mailto:kumar.manish.in.0328@gmail.com"><img src="connect-email.svg" alt="Email" width="49%"/></a>
+
+</div>
+
 
 ### 💡 Favorite Quote
 
