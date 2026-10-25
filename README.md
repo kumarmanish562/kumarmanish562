@@ -249,7 +249,7 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 
 ## 🏅 Achievements
 
-- 🥇 **Winner** — AI Impact Summit (RanchiHacks 2026)
+- 🥇 **Winner** — AI Ranchi Hack(RanchiHacks 2026)
 - 🥈 **Runner-up** — Vyom 2024 Frontend Hackathon
 - 💼 Completed **Full Stack Development Internship**
 - 🚀 Built multiple AI, Cloud, and Full-Stack projects solving real-world problems
