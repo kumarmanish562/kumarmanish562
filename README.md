@@ -43,7 +43,7 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 
 ### 🚀 What I Do
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering (AI & ML)** (2022–2026).
+- **B.Tech in Computer Science Engineering (AI & ML)** (2022–2026).
 - 💻 Build **full-stack web applications** using **Java, Spring Boot, React.js, Node.js, Express.js, and REST APIs**.
 - ⚙️ Develop secure backend systems with **JWT Authentication**, role-based authorization, and API documentation using **Postman**.
 - 🗄️ Design and manage databases using **MySQL, MongoDB, and PostgreSQL**.
