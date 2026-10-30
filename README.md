@@ -279,7 +279,7 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
 
-### 🚀 Motto 👇
+### 🚀 Motto 👇😜
 
 **Building intelligent software, solving real-world problems, and learning something new every day.**
 
