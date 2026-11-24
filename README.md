@@ -184,7 +184,7 @@ I'm **Manish Kumar**, a B.Tech Computer Science Engineering (AI & ML) student pa
 
 <!-- Top Languages -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmanish562&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=38bdf8&text_color=e2e8f0"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=38bdf8&text_color=e2e8f0"
   width="49%"
   alt="Manish Kumar Top Languages"
 />
